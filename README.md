@@ -5,8 +5,8 @@ En esta sección se listan todas la máquinas realizadas en la plataforma de Hac
 ## **Índice**
 * Linux
 * Windows
-    1. [Legacy](#id4)
-    1. [Blue](#id4)
+    1. [Legacy](https://github.com/S4MU51/Write-Up/Legacy)
+    1. [Blue](https://github.com/S4MU51/Write-Up/Blue)
 
 
 

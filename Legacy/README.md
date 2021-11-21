@@ -24,7 +24,7 @@
 
 ![](./images/targeted.png)
 
-* Tras detectarse el servicio SMB abierto, se procede a lanzar una rista de scripts de nmap de caraceter vuln and safe.
+* Tras detectarse el servicio **SMB** abierto, se procede a lanzar el conjunto de scripts de nmap de caraceter **vuln and safe**.
 
 ![](./images/vuln_and_safe.png)
 
@@ -70,7 +70,7 @@ impaket-smbserver smbFolder $(pwd) -smb2support
 
 #### 3.2.1 Explotacion Manual MS08-067
 
-El mismo procedemiento se sigue para MS08-067. Se busca en internet si existe algun repo RCE.
+El mismo procedimiento se sigue para MS08-067. Se busca en internet si existe algun repo RCE.
 
 Para usar este exploit fue necesario crear el payload del buffer overflow siguiendo las instrucciones del script.
 

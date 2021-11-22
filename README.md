@@ -6,7 +6,8 @@ En esta sección se listan todas la máquinas realizadas en la plataforma de Hac
 * Linux
 * Windows
     1. [Legacy](./Legacy)
-    1. [Blue](./Blue)
+    2. [Blue](./Blue)
+    3. [Optimum](./Optimum)
 
 
 

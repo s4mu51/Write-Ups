@@ -33,7 +33,7 @@
 ![](./images/allSMBvuln.png)
 
 
-## 3. Explotacion
+## 3. Explotación
 
 ### 3.1 Metasploit
 
@@ -53,7 +53,7 @@ Se explota la otra vulnerabilidad de samba con el uso de metasploit.
 
 ![](./images/metasploit-ms08-067.png)
 
-#### 3.2.1 Explotacion Manual MS17-010
+#### 3.2.1 Explotación Manual MS17-010
 
 Se busca en internet repositorios que ejecuten el exploit ms17-010. https://github.com/worawit/MS17-010. 
 
@@ -68,7 +68,7 @@ impaket-smbserver smbFolder $(pwd) -smb2support
 ![](./images/exploit.png)
 
 
-#### 3.2.1 Explotacion Manual MS08-067
+#### 3.2.1 Explotación Manual MS08-067
 
 El mismo procedimiento se sigue para MS08-067. Se busca en internet si existe algun repo RCE.
 

@@ -6,14 +6,14 @@
 1. [Overview](#id1)
 2. [Enumeración](#id2)
 3. [Explotación](#id3)
-4. [Priviledge Escalation](#id4)
+4. [Escalada de Privilegios](#id4)
 
 #
 ## 1. Overview<a name="id1"></a>
 
 |OS|Difficulty|Machine State|Vector|Priviledge Escalation|
 |-|-|-|-|-|
-|Windows|Easy|Retired|||
+|Windows|Easy|Retired|HFS|Kernel|
 
 
 #
@@ -53,7 +53,7 @@ nc -lvnp
 * Finalmente, se obtiene una shell como Kostas (usuario local)
 
 #
-## 4. Priviledge Escalation<a name="id2"></a>
+## 4. Escalada de Privilegios<a name="id2"></a>
 
 * Se realiza una enumeracion inicial con el usuario kostas. En primer lugar, se ejecuta **systeminfo** para saber ante que estamos.
 
@@ -71,7 +71,7 @@ nc -lvnp
 
 * La propia herramienta sumistra el enlace de exploit-db. 
 
-* Para encontar un ejecutable, se recomienda utiliza el propio repositorio de offensive security, https://github.com/offensive-security/exploitdb-bin-sploits/tree/master/bin-sploits/[num_exploitdb].[ext].
+* Para encontrar un ejecutable, se recomienda utiliza el propio repositorio de offensive security, https://github.com/offensive-security/exploitdb-bin-sploits/tree/master/bin-sploits/[num_exploitdb].[ext].
 
 * Una vez descargado se comparte el compilado con 
 

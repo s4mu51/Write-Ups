@@ -1,4 +1,4 @@
-# HackTheBox
+# Hack The Box
 
 En esta sección se listan todas la máquinas realizadas en la plataforma de HackTheBox.
 
@@ -8,6 +8,7 @@ En esta sección se listan todas la máquinas realizadas en la plataforma de Hac
     1. [Legacy](./Legacy)
     2. [Blue](./Blue)
     3. [Optimum](./Optimum)
+    4. [Devel](./Devel)
 
 
 

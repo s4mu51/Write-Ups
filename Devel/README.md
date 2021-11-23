@@ -34,7 +34,7 @@
 
 * Destaca un archivo, la imagen **welcome.png**. Mismo nombre que se encuentra en el directorio raiz del ftp.
 
-![](./images/web.png)
+![](./images/webs.png)
 
 * Se prueba a subir vía ftp un archivo index.html. Si el servicio web hace uso del directorio raiz del servicio ftp para cargar los archivos, éste reproducirá el contenido del index.html.
 

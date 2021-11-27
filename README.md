@@ -5,6 +5,7 @@ En esta sección se listan todas la máquinas realizadas en la plataforma de Hac
 ## **Índice**
 * Linux
     1. [Lame](./Lame)
+    2. [Lame](./Nibbles)
 * Windows
     1. [Legacy](./Legacy)
     2. [Blue](./Blue)
